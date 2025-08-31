@@ -111,3 +111,4 @@ You can now log in to the admin panel at:
 
 python manage.py runserver
 Once running, open http://127.0.0.1:8000/ in your browser.
+**developer keys needed to run all features of project**
