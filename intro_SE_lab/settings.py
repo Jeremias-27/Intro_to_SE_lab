@@ -26,6 +26,7 @@ INSTALLED_APPS = [
     'inventory', # ✅ Inventory management app
     'storefront',# ✅ Storefront views app
     'order',     # ✅ Order app
+    'chatbot',    # ✅ Chatbot app
 ]
 
 AUTH_USER_MODEL = 'userauth.CustomUser'
@@ -110,3 +111,4 @@ environ.Env.read_env()
 
 STRIPE_SECRET_KEY = env("STRIPE_SECRET_KEY")
 STRIPE_PUBLISHABLE_KEY = env("STRIPE_PUBLISHABLE_KEY")
+OPENAI_API_KEY = env("OPENAI_API_KEY")
