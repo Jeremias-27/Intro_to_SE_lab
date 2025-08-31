@@ -9,5 +9,6 @@ urlpatterns = [
     path('logout/', include('userauth.urls')),  # Logout URL
     path('storefront/', include('storefront.urls')),  # Storefront URL
     path('admin/', admin.site.urls),  # Admin panel
-    path('checkout/',include('order.urls')) # order URL
+    path('checkout/',include('order.urls')), # order URL
+    path("chatbot/", include("chatbot.urls")),
 ]
