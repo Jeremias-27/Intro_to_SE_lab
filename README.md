@@ -1,4 +1,4 @@
-# Website Shwocase
+# Website Showcase
 
 <img width="1898" height="877" alt="showcase 1" src="https://github.com/user-attachments/assets/3aba605f-28e6-4c2d-9bba-bfbdb789d2e4" />
 
