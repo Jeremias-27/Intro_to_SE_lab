@@ -1,3 +1,19 @@
+# Website Shwocase
+
+<img width="1898" height="877" alt="showcase 1" src="https://github.com/user-attachments/assets/3aba605f-28e6-4c2d-9bba-bfbdb789d2e4" />
+
+<img width="1577" height="656" alt="showcase 2" src="https://github.com/user-attachments/assets/11020b8a-21aa-48e1-9e00-5d0438d07142" />
+
+<img width="1920" height="797" alt="showcase 3" src="https://github.com/user-attachments/assets/9241757b-bbde-4d0f-bb5c-d65a9e6df842" />
+
+<img width="1492" height="855" alt="showcase 4" src="https://github.com/user-attachments/assets/22352e62-b589-41cf-8f3f-eececa357d9f" />
+
+<img width="1382" height="682" alt="showcase 5" src="https://github.com/user-attachments/assets/c8461e9f-05c0-42b0-9dae-1e5a1bcce372" />
+
+## Software Requirement Specifications ## 
+
+[IEEE Software Requirements Specification Group 9 Final.docx](https://github.com/user-attachments/files/22105156/IEEE.Software.Requirements.Specification.Group.9.Final.docx)
+
 # Intro to SE Lab - E-Commerce Platform
 
 ## **Project Description**
